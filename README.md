@@ -77,5 +77,5 @@ Start the server
 
 ## License
 
-[GitHub: akshansh77](https://github.com/akshansh77)
+[GitHub: akshansh77](https://github.com/rashmi0710)
 
